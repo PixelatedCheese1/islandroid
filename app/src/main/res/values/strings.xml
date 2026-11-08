@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Islandroid</string>
+    <string name="a11y_description">Draws the Dynamic Island overlay around your front camera. It does not read or collect anything from your screen.</string>
+</resources>
